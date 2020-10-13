@@ -1,7 +1,6 @@
 body{
     background-color: #fff;
     text-rendering: optimizeLegibility;
-    -webkit-font-smoothing: antialiased;
 }
 
 div, body, figure{
@@ -41,31 +40,4 @@ ul{
     margin-top: 0px;
     margin-bottom: 0px;
     padding-right: 20px;
-}
-
-.list{
-    font-size: 16px;
-    line-height: 1.31;
-    padding: 5px 0;
-    position: relative;
-    border-bottom: 1px dotted #000;
-}
-
-.list:before{
-    border-width: 5px 0 5px 10px;
-    position: absolute;
-    display: block;
-    top: 9px;
-    content: "";
-    display: inline-block;
-    width: 0;
-    height: 0;
-    border-style: solid;
-    border-width: 6px 0 6px 12px;
-    border-color: transparent transparent transparent #000;
-}
-
-.list_text{
-    display: block;
-    margin-left: 18px;
 }

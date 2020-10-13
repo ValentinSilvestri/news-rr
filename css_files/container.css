@@ -1,0 +1,35 @@
+.head_container{
+    margin: auto;
+    padding-top: 20px;
+    padding-bottom: 26px;
+    position: relative;
+    padding: 20px 20px 12px;
+}
+
+.image_container{
+    margin: auto;
+    padding-top: 20px;
+    padding-bottom: 26px;
+    position: relative;
+    padding: 20px 20px 12px;
+}
+
+.text_container{
+    margin: auto;
+    padding-top: 20px;
+    padding-bottom: 26px;
+    position: relative;
+    padding: 20px 20px 12px;
+}
+
+.article_container{
+    position: relative;
+    z-index: 1;
+    max-width: 660px;
+    padding: 0 20px 0 0;
+}
+
+.comments{
+    margin: 30px 0 15px;
+    width: 100%;
+}

@@ -11,7 +11,7 @@
     padding-top: 20px;
     padding-bottom: 26px;
     position: relative;
-    padding: 20px 20px 12px;
+    padding: 20px 20px 0px;
 }
 
 .text_container{
@@ -19,7 +19,7 @@
     padding-top: 20px;
     padding-bottom: 26px;
     position: relative;
-    padding: 20px 20px 12px;
+    padding: 0px 20px 12px;
 }
 
 .article_container{

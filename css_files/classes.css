@@ -86,3 +86,10 @@
     display: block;
     margin-left: 18px;
 }
+
+.hr-style{
+    border-top-width: 1px;
+    border-bottom-width:1px;
+    margin-top: 1px;
+    margin-bottom: 1px;
+}
